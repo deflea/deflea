@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Daniel.<br>I'm a QA analyst learning programming languages and test automation.
+👋 Hi, I'm Daniel.<br>I'm a QA Analyst learning programming languages and test automation.
 
 
 ## 🌐 Socials:
